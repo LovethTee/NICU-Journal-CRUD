@@ -24,7 +24,7 @@ router.get('/logout', (req, res,next) =>{
         if(error) {return next(error)}
         res.redirect('/')
     })
-    //res.redirect('/') //should the logout the user back to home
+    //res.redirect('/') //should logout the user back to home
 }
 )
 

@@ -1,6 +1,5 @@
 # NICU-Journal-CRUD - demo 
 <p>Full stack app for Neonatal ICU parents to share their experience in the hospital. This is a test demo for my 100hrs project.</p>
-Followed Travesery Media's Google OAuth tutorial on youtube.
 
 <h3>Link to project:</h3>[https://preemies-journal.herokuapp.com/]
 

@@ -15,7 +15,7 @@
 
 <h5>Tech Used: Node, MongoDB, JavaScript, CSS, Handlebars</h5>
 
-<p> Using the MVC framework, Google OAuth and passport.js for authentication, users can log on to their profile to update, add or delete stories of their Neonatal ICU experience. They are able to see public stories from same users but do not have the option to edit or delete. This function was allowed to serve as inspiration for other users who are currently undergoing the same experience(babies in the NICU). However, there is an option for private stories where other users are unable to see or access stories that aren't theirs. The purple theme for this project represents and supports World Prematurity Day. Travesry's media Google OAuth tutorial was followed in the creation of this CRUD app.</p>
+<p> Using the MVC framework, Google OAuth and passport.js for authentication, users can log on to their profile to update, add or delete stories of their Neonatal ICU experience. They are able to see public stories from same users but do not have the option to edit or delete. This function was allowed to serve as inspiration for other users who are currently undergoing the same experience(babies in the NICU). However, there is an option for private stories where other users are unable to see or access stories that aren't theirs. The purple theme for this project represents and supports World Prematurity Day.</p>
 
 <p>Stories for this project are fictional and based off of my experience working as a Neonatal ICU nurse.</p>
 
